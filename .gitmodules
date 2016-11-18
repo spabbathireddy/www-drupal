@@ -1,0 +1,3 @@
+[submodule "Superfish-for-Drupal"]
+	path = Superfish-for-Drupal
+	url = git@github.com:mehrpadin/Superfish-for-Drupal.git
